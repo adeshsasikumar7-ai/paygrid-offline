@@ -4,9 +4,11 @@ Offline-first prepaid/postpaid power app with resident and worker apps, live syn
 
 ## Links
 
-- Lovable editor (keep developing this project): https://lovable.dev/projects/d2f7d504-162c-49da-99b4-44c93d6e9de5
-- Live preview: https://id-preview--d2f7d504-162c-49da-99b4-44c93d6e9de5.lovable.app
-- This repository: https://github.com/adeshsasikumar7-ai/paygrid-offline
+| Where | Address | Who can open it |
+| --- | --- | --- |
+| This repository | https://github.com/adeshsasikumar7-ai/paygrid-offline | anyone |
+| Lovable editor — keep developing this project | https://lovable.dev/projects/d2f7d504-162c-49da-99b4-44c93d6e9de5 | you, after signing in to Lovable |
+| Live app | not published yet — publishing gives it a public address | — |
 
 ## Pages
 
