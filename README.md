@@ -1,6 +1,6 @@
-# Unable to View Project
+# PayGrid-Offline
 
-https://lovable.dev/projects/122b9226-93a2-4316-98de-78611d80f18f
+Offline-first prepaid/postpaid power app with resident and worker apps, live sync and a meter simulator (`/simulator`).
 
 This project was built with [Lovable](https://lovable.dev).
 
